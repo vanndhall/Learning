@@ -11,6 +11,7 @@ namespace TablicaMnożenia
         static void Main(string[] args)
         {
             Console.WriteLine("hello");
+            Console.WriteLine("Zmiana 2");
         }
     }
 }
