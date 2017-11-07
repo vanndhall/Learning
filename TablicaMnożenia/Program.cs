@@ -12,6 +12,7 @@ namespace TablicaMnożenia
         {
             Console.WriteLine("hello");
             Console.WriteLine("Zmiana 2");
+            Console.WriteLine("Zmiana 3");
         }
     }
 }
